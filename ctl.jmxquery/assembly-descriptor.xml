@@ -23,7 +23,7 @@
 		<outputDirectory/>
     </fileSet>
     <fileSet>
-      <directory>${basedir}/src/main/script</directory>
+      <directory>${basedir}/src/main/scripts</directory>
       <includes>
         <include>*</include>
       </includes>
